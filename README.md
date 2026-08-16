@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left" >✨ Creating bugs since 2022<br>📚 I'm currently learning Spring Boot 🍃<br>📫 How to reach me <a href="mailto:selman.karakas@outlook.com">selman.karakas@outlook.com</a><br></p>
+<p align="left" >✨ Creating bugs since 2022<br>📚 I'm currently learning Spring Boot 🍃<br>📫 How to reach me <a href="mailto:selmankarak1@gmail.com">selmankarakas1@gmail.com</a><br></p>
 
 ###
 
